@@ -1,0 +1,172 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Galaxy S21 Ultra",
+    "product_image": "https://i.ibb.co.com/ynQ0tgd/64d2965b6262c0501d446344-apple-iphone-x-64gb-unlocked-gsm-phone.jpg",
+    "category": "phone",
+    "price": 999.99,
+    "description": "High-performance smartphone with quad cameras and stunning display.",
+    "Specification": [
+      "12GB RAM",
+      "128GB Storage",
+      "108MP Camera",
+      "5000mAh Battery"
+    ],
+    "availability": true,
+    "rating": 3.7,
+    "color": "Phantom Black"
+  },
+  {
+    "product_id": "L001",
+    "product_title": "MacBook Pro 16-inch",
+    "product_image": "https://i.ibb.co.com/0FFJ5Yh/download.jpg",
+    "category": "laptop",
+    "price": 2499.99,
+    "description": "Powerful laptop with Apple M1 Pro chip for ultimate performance.",
+    "Specification": [
+      "16GB RAM",
+      "512GB SSD",
+      "M1 Pro Chip",
+      "16-inch Retina Display"
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "weight": "4.3 lbs"
+  },
+  {
+    "product_id": "S001",
+    "product_title": "Apple Watch Series 7",
+    "product_image": "https://i.ibb.co.com/CWyZ0Xx/download.jpg",
+    "category": "smartwatch",
+    "price": 399.99,
+    "description": "Smartwatch with always-on display and advanced health tracking.",
+    "Specification": [
+      "GPS",
+      "Blood Oxygen Sensor",
+      "Water Resistant",
+      "Heart Rate Monitor"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "color": "Starlight"
+  },
+  {
+    "product_id": "P002",
+    "product_title": "iPhone 13 Pro",
+    "product_image": "https://i.ibb.co.com/ynQ0tgd/64d2965b6262c0501d446344-apple-iphone-x-64gb-unlocked-gsm-phone.jpg",
+    "category": "phone",
+    "price": 1099.99,
+    "description": "Advanced smartphone with A15 Bionic chip and ProMotion display.",
+    "Specification": [
+      "6GB RAM",
+      "256GB Storage",
+      "12MP Triple Camera",
+      "3095mAh Battery"
+    ],
+    "availability": true,
+    "rating": 4.9,
+    "color": "Graphite"
+  },
+  {
+    "product_id": "L002",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/0FFJ5Yh/download.jpg",
+    "category": "laptop",
+    "price": 1299.99,
+    "description": "Compact, powerful laptop with InfinityEdge display and Intel i7.",
+    "Specification": [
+      "8GB RAM",
+      "256GB SSD",
+      "Intel Core i7",
+      "13.4-inch Full HD"
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "weight": "2.8 lbs"
+  },
+  {
+    "product_id": "S002",
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://i.ibb.co.com/CWyZ0Xx/download.jpg",
+    "category": "smartwatch",
+    "price": 349.99,
+    "description": "Fitness-focused smartwatch with body composition measurement.",
+    "Specification": [
+      "GPS",
+      "Body Composition Monitor",
+      "Bluetooth",
+      "1.4-inch Display"
+    ],
+    "availability": true,
+    "rating": 4.4,
+    "color": "Black"
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Google Pixel 6",
+    "product_image": "https://i.ibb.co.com/ynQ0tgd/64d2965b6262c0501d446344-apple-iphone-x-64gb-unlocked-gsm-phone.jpg",
+    "category": "phone",
+    "price": 699.99,
+    "description": "Powerful phone with Google Tensor processor and advanced camera.",
+    "Specification": [
+      "8GB RAM",
+      "128GB Storage",
+      "50MP Dual Camera",
+      "4614mAh Battery"
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "color": "Sorta Seafoam"
+  },
+  {
+    "product_id": "L003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/0FFJ5Yh/download.jpg",
+    "category": "laptop",
+    "price": 1499.99,
+    "description": "Versatile convertible laptop with powerful specs and a stunning screen.",
+    "Specification": [
+      "16GB RAM",
+      "512GB SSD",
+      "Intel Core i7",
+      "13.3-inch OLED Display"
+    ],
+    "availability": false,
+    "rating": 4.7,
+    "weight": "3.0 lbs"
+  },
+  {
+    "product_id": "S003",
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://i.ibb.co.com/CWyZ0Xx/download.jpg",
+    "category": "smartwatch",
+    "price": 229.99,
+    "description": "Smartwatch with fitness tracking, GPS, and sleep monitoring.",
+    "Specification": [
+      "Built-in GPS",
+      "Heart Rate Monitor",
+      "6+ Day Battery",
+      "Sleep Tracking"
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "color": "Midnight Blue"
+  },
+  {
+    "product_id": "P004",
+    "product_title": "OnePlus 9 Pro",
+    "product_image": "https://i.ibb.co.com/ynQ0tgd/64d2965b6262c0501d446344-apple-iphone-x-64gb-unlocked-gsm-phone.jpg",
+    "category": "phone",
+    "price": 969.99,
+    "description": "Flagship phone with Hasselblad camera for stunning photography.",
+    "Specification": [
+      "12GB RAM",
+      "256GB Storage",
+      "48MP Quad Camera",
+      "4500mAh Battery"
+    ],
+    "availability": false,
+    "rating": 4.6,
+    "color": "Morning Mist"
+  }
+]
